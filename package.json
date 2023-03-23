@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "node ./src/index.js"
+  },
+  "dependencies": {
+    "venom-bot": "^4.3.7"
+  }
+}
